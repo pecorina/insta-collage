@@ -1,1 +1,23 @@
-main.css
+
+body{
+	background: linear-gradient(to top, #4DAB7A, #BB6239); /* Standard syntax */
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+
+}
+
+.logo-insta{
+	width: 900px;
+}
+form{
+	display: block;
+}
+.row{
+	display: flex;
+	justify-content: center;
+}
+img{
+	display: flex;
+	justify-content: center;
+}
